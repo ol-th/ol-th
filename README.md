@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ollie Thwaites.
+
+🛠 I'm currently working on data pipelines at [173tech](www.173tech.com).
+
+📫 To get hold of me, [try my email](mailto:olliethwaites@gmail.com).
 
 <!--
 **ol-th/ol-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
