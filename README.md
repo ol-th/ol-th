@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ollie Thwaites.
 
-🛠 I'm currently working on data pipelines at [173tech](https://www.173tech.com).
+🛠 I'm currently working on the infrastructure at [currensea](https://www.currensea.com).
 
 📫 To get hold of me, [try my email](mailto:olliethwaites@gmail.com).
 
