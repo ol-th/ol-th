@@ -2,8 +2,6 @@
 
 🛠 I'm currently working on the infrastructure at [currensea](https://www.currensea.com).
 
-📫 To get hold of me, [try my email](mailto:olliethwaites@gmail.com).
-
 <!--
 **ol-th/ol-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
