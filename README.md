@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ollie Thwaites.
 
-🛠 I'm currently working on the infrastructure at [currensea](https://www.currensea.com).
+🛠 I'm currently working on the data and payments infrastructure at [currensea](https://www.currensea.com).
 
 <!--
 **ol-th/ol-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
